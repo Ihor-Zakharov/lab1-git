@@ -1,0 +1,10 @@
+# editor backup files (hello.py~)
+*~
+# vim swap files (.hello.py.swp)
+*.swp
+# Python bytecode cache folder
+__pycache__/
+# compiled Python files
+*.pyc
+# build output folder
+Debug/
